@@ -1,10 +1,25 @@
 # ttaraon-downloads
 따라ON 설치파일 및 업데이트
 
-## 따라ON 0.18.4 시험판
+## 따라ON 0.18.5 시험판
 
-- [설치파일](https://github.com/ttaraon-ljy/ttaraon-downloads/releases/download/v0.18.4-members1/TtaraON_Setup.exe)
+- [설치파일 내려받기](https://github.com/ttaraon-ljy/ttaraon-downloads/releases/download/v0.18.5-members1/TtaraON_Setup.exe)
 - [외부 라이브러리의 정확한 버전별 소스 다운로드](open-source-18.4.md)
+
+## 설치할 때 경고가 나오면
+
+따라ON은 개인이 만든 새 프로그램이라 아직 Windows와 백신의 "평판" 기록이 적습니다. 그래서 아래 경고가 나올 수 있습니다. 위 주소(github.com/ttaraon-ljy)에서 받은 파일이라면 다음 순서로 진행해 주세요.
+
+1. **브라우저에서 "일반적으로 다운로드되지 않습니다"가 나오면**
+   - 엣지: 다운로드 목록에서 파일 오른쪽의 `…` → **유지** → **자세히 표시** → **그래도 계속**
+   - 크롬: 다운로드 목록에서 **유지**(또는 "안전하지 않은 파일 다운로드")
+2. **실행할 때 파란 창 "Windows의 PC 보호"가 나오면**
+   - **추가 정보** → **실행**
+3. **V3 등 백신이 막으면**
+   - 백신 알림에서 **예외 처리(허용)** 하거나, 잠시 실시간 검사를 끄고 설치한 뒤 다시 켜 주세요.
+   - 백신이 막았다면 kokow0507@naver.com으로 알려 주세요. 백신 회사에 오진 신고를 하겠습니다.
+
+받은 파일이 맞는지 확인하려면 릴리스 페이지에 적힌 SHA-256 값과 비교할 수 있습니다.
 
 ## 약관과 개인정보
 
