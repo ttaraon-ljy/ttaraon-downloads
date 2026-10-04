@@ -1,0 +1,63 @@
+[
+  {
+    "url": "https://download.qt.io/official_releases/qt/6.11/6.11.2/submodules/qtbase-everywhere-src-6.11.2.tar.xz",
+    "status": 200,
+    "bytes": "50582668",
+    "type": "application/x-xz",
+    "downloaded": true,
+    "sha256": "5b2e00eccaf5a4d8c14134ffa0ea8dfd0a35ae1ffc7f8d87fa4305a1ed23cf22",
+    "actual_bytes": 50582668
+  },
+  {
+    "url": "https://download.qt.io/official_releases/qt/6.11/6.11.2/submodules/qtsvg-everywhere-src-6.11.2.tar.xz",
+    "status": 200,
+    "bytes": "2341860",
+    "type": "application/x-xz",
+    "downloaded": true,
+    "sha256": "d594337feca84c26fb67fe87b85e6a5c12fda404b611d905f9d138210c311876",
+    "actual_bytes": 2341860
+  },
+  {
+    "url": "https://download.qt.io/official_releases/qt/6.11/6.11.2/submodules/qtimageformats-everywhere-src-6.11.2.tar.xz",
+    "status": 200,
+    "bytes": "2050424",
+    "type": "application/x-xz",
+    "downloaded": true,
+    "sha256": "cecd8900f34b6550076309bc94f62f828008b633a4239e0a08c86788f41001f8",
+    "actual_bytes": 2050424
+  },
+  {
+    "url": "https://download.qt.io/official_releases/qt/6.11/6.11.2/submodules/qtmultimedia-everywhere-src-6.11.2.tar.xz",
+    "status": 200,
+    "bytes": "10255120",
+    "type": "application/x-xz",
+    "downloaded": true,
+    "sha256": "967b5e02ec6b793cdb360622cd6e703132836af983208d678dae4b50f109cd9f",
+    "actual_bytes": 10255120
+  },
+  {
+    "url": "https://download.qt.io/official_releases/QtForPython/pyside6/PySide6-6.11.2-src/pyside-setup-everywhere-src-6.11.2.tar.xz",
+    "status": 200,
+    "bytes": "18053248",
+    "type": "application/x-xz",
+    "downloaded": true,
+    "sha256": "cba47efbaad1bedd529725cbc14e21f156c7a19366f07b3edfbb076ffd7afdf8",
+    "actual_bytes": 18053248
+  },
+  {
+    "file": "ffmpeg-330caae0c1acccd2222edc52a05940c574561ce5.tar.gz",
+    "url": "https://codeload.github.com/FFmpeg/FFmpeg/tar.gz/330caae0c1acccd2222edc52a05940c574561ce5",
+    "bytes": 16924063,
+    "sha256": "67b5876ee973a26f267280b2c1eb851a0ac7a502382d20e41b7a819111886af9",
+    "archive_entries": 10259,
+    "status": 200
+  },
+  {
+    "file": "btbn-build-9acad4a9ef1583096af7836cc1e9c8cbcb4d3950.zip",
+    "url": "https://codeload.github.com/BtbN/FFmpeg-Builds/zip/9acad4a9ef1583096af7836cc1e9c8cbcb4d3950",
+    "bytes": 247020,
+    "sha256": "6831eeef008b5955da5710900f74cac77b11a780058a283efc5d354a0e96e390",
+    "archive_entries": 312,
+    "status": 200
+  }
+]
