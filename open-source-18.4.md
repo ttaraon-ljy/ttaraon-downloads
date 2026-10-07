@@ -1,5 +1,7 @@
 # 따라ON 0.18.4 — 외부 라이브러리 소스 다운로드
 
+> **0.18.5부터 0.18.13까지의 설치본도** 같은 Qt/PySide6 6.11.2와 같은 ffmpeg.exe(SHA-256 `f8ef72edbfe0e63d4ec01d50f39ef09e251998b157e82c20df1702a41e8ab91e`)를 넣었으므로 이 안내가 그대로 적용됩니다.
+
 > **라이선스:** 동봉 FFmpeg에는 Chromaprint를 통해 GPL인 FFTW가 정적으로 포함되어 있어 GNU GPL 버전 3 조건으로 배포합니다. `win64-lgpl`은 업스트림 빌드 이름일 뿐 실제 라이선스를 뜻하지 않습니다. [검토 근거](source-evidence/18.4/FFTW_FINDING.txt)
 >
 > 처음 공개한 0.18.4-members1 설치파일의 LICENSE 폴더에는 이 판정과 일부 외부 구성요소 고지가 빠져 있었습니다. 보완한 고지는 다음 설치파일의 LICENSE 폴더에 포함합니다.
