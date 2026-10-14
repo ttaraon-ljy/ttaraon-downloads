@@ -1,10 +1,11 @@
 # ttaraon-downloads
 따라ON 설치파일 및 업데이트
 
-## 따라ON 0.18.15 (최신판)
+## 따라ON 0.18.16 (최신판)
 
-- [설치파일 내려받기](https://github.com/ttaraon-ljy/ttaraon-downloads/releases/download/v0.18.15-members1/TtaraON_Setup.exe)
-  - 크기 191,642,740바이트 · SHA-256 `3c6806bd3292237fae8b929039fc4ead578eb892919717b2429aff7c4430fb93`
+- [설치파일 내려받기](https://github.com/ttaraon-ljy/ttaraon-downloads/releases/download/v0.18.16-members3/TtaraON_Setup.exe)
+  - 크기 191,659,519바이트 · SHA-256 `ab611162c68eb44a3e6bb5f88b14273b938ba94e2f5cd086009362e9919ec4bc`
+  - 앱 안에서 업데이트가 중간에 실패하면, 이 파일을 받아 그대로 설치하면 됩니다(설정·기록은 그대로 남습니다).
   - 한 번 설치하면, 새 판이 나올 때 앱이 알아서 업데이트를 안내합니다.
 - 외부 라이브러리의 정확한 버전별 소스 다운로드: [0.18.14부터](open-source-18.14.md) · [0.18.4~0.18.13](open-source-18.4.md)
 
