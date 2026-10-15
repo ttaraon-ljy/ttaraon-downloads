@@ -1,6 +1,8 @@
 # ttaraon-downloads
 따라ON 설치파일 및 업데이트
 
+**처음 받으시나요? → [처음 시작하기](start-guide.md)** (설치부터 첫 영상까지 10분)
+
 ## 따라ON 0.18.16 (최신판)
 
 - [설치파일 내려받기](https://github.com/ttaraon-ljy/ttaraon-downloads/releases/download/v0.18.16-members3/TtaraON_Setup.exe)
