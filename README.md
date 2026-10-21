@@ -3,7 +3,7 @@
 
 **처음 받으시나요? → [처음 시작하기](start-guide.md)** (설치부터 첫 영상까지 10분)
 
-사진으로 보는 안내서: [쉬운 사용 안내서(PDF, 16쪽)](guide/TtaraON_easy_guide_0.18.17.pdf)
+사진으로 보는 안내서: [쉬운 사용 안내서(PDF, 16쪽)](guide/TtaraON_guide.pdf)
 
 ## 따라ON 0.18.19 (최신판)
 
